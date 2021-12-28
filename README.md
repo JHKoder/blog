@@ -1,6 +1,9 @@
 # blog         
 http://www.kangblog.kr/     ( 오픈시간 평일 낯 12시 ~ 6,7시 까지  개봉 )
 
+2021-12-28~
+(운영 종료)
+
 개발 환경 
 
 리눅수(우분투) 사용,  spring framework 5(maven) ,  서버 : tomcat   ,  db :mysql    ,  사용언어 : java     
