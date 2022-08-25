@@ -23,4 +23,16 @@ http://www.kangblog.kr/     ( 오픈시간 평일 낯 12시 ~ 6,7시 까지  개
 -시큐리티 로그인 
 
  시큐리티 적용(댓글,게시글 )
-
+ 
+ 
+ 
+ ## 실제 운영 
+ 
+ < 게시판 >
+![선택 영역_018 (1)](https://user-images.githubusercontent.com/105915960/186605722-ad3fc375-0e7c-4955-9463-85a752742910.png)
+< 게시글 작성 >
+![선택 영역_019 (1)](https://user-images.githubusercontent.com/105915960/186605622-93b23628-7ac6-44a8-a197-4e87c5d2543c.png)
+< 작성된 게시글 >
+![선택 영역_016](https://user-images.githubusercontent.com/105915960/186605737-a0296ca9-0a59-4118-aa3f-f91ce494bb7e.png)
+< 댓글 >
+![선택 영역_017 (1)](https://user-images.githubusercontent.com/105915960/186605731-1a1961fe-c524-4b67-a260-4774763579cc.png)
